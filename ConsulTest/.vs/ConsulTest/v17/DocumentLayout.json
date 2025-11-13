@@ -1,0 +1,351 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Project\\Consul\\ConsulTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{449602BB-115B-43C7-8CF5-7A86B2C5DDC9}|GatewayApi\\GatewayApi.csproj|e:\\project\\consul\\consultest\\gatewayapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{449602BB-115B-43C7-8CF5-7A86B2C5DDC9}|GatewayApi\\GatewayApi.csproj|solutionrelative:gatewayapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7B8B74-D079-2844-F974-2C3987EE8279}|ServicesApi\\ServicesApi.csproj|e:\\project\\consul\\consultest\\servicesapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC7B8B74-D079-2844-F974-2C3987EE8279}|ServicesApi\\ServicesApi.csproj|solutionrelative:servicesapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{449602BB-115B-43C7-8CF5-7A86B2C5DDC9}|GatewayApi\\GatewayApi.csproj|e:\\project\\consul\\consultest\\gatewayapi\\consulconfigprovider .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{449602BB-115B-43C7-8CF5-7A86B2C5DDC9}|GatewayApi\\GatewayApi.csproj|solutionrelative:gatewayapi\\consulconfigprovider .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A942816-276F-4B42-ACB0-F5834310D45B}|CommonClassLibrary\\CommonClassLibrary.csproj|e:\\project\\consul\\consultest\\commonclasslibrary\\services\\consuldiscoveryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A942816-276F-4B42-ACB0-F5834310D45B}|CommonClassLibrary\\CommonClassLibrary.csproj|solutionrelative:commonclasslibrary\\services\\consuldiscoveryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7B8B74-D079-2844-F974-2C3987EE8279}|ServicesApi\\ServicesApi.csproj|e:\\project\\consul\\consultest\\servicesapi\\consulservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC7B8B74-D079-2844-F974-2C3987EE8279}|ServicesApi\\ServicesApi.csproj|solutionrelative:servicesapi\\consulservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7B8B74-D079-2844-F974-2C3987EE8279}|ServicesApi\\ServicesApi.csproj|e:\\project\\consul\\consultest\\servicesapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC7B8B74-D079-2844-F974-2C3987EE8279}|ServicesApi\\ServicesApi.csproj|solutionrelative:servicesapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7B8B74-D079-2844-F974-2C3987EE8279}|ServicesApi\\ServicesApi.csproj|e:\\project\\consul\\consultest\\servicesapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC7B8B74-D079-2844-F974-2C3987EE8279}|ServicesApi\\ServicesApi.csproj|solutionrelative:servicesapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C4A070-3B39-3A78-24A5-A0C65A825D3E}|ServiceDiscoveryClient\\ServiceDiscoveryClient.csproj|e:\\project\\consul\\consultest\\servicediscoveryclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5C4A070-3B39-3A78-24A5-A0C65A825D3E}|ServiceDiscoveryClient\\ServiceDiscoveryClient.csproj|solutionrelative:servicediscoveryclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{449602BB-115B-43C7-8CF5-7A86B2C5DDC9}|GatewayApi\\GatewayApi.csproj|e:\\project\\consul\\consultest\\gatewayapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{449602BB-115B-43C7-8CF5-7A86B2C5DDC9}|GatewayApi\\GatewayApi.csproj|solutionrelative:gatewayapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A942816-276F-4B42-ACB0-F5834310D45B}|CommonClassLibrary\\CommonClassLibrary.csproj|e:\\project\\consul\\consultest\\commonclasslibrary\\models\\serviceconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A942816-276F-4B42-ACB0-F5834310D45B}|CommonClassLibrary\\CommonClassLibrary.csproj|solutionrelative:commonclasslibrary\\models\\serviceconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A942816-276F-4B42-ACB0-F5834310D45B}|CommonClassLibrary\\CommonClassLibrary.csproj|e:\\project\\consul\\consultest\\commonclasslibrary\\services\\loadbalancer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A942816-276F-4B42-ACB0-F5834310D45B}|CommonClassLibrary\\CommonClassLibrary.csproj|solutionrelative:commonclasslibrary\\services\\loadbalancer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{449602BB-115B-43C7-8CF5-7A86B2C5DDC9}|GatewayApi\\GatewayApi.csproj|e:\\project\\consul\\consultest\\gatewayapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{449602BB-115B-43C7-8CF5-7A86B2C5DDC9}|GatewayApi\\GatewayApi.csproj|solutionrelative:gatewayapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{449602BB-115B-43C7-8CF5-7A86B2C5DDC9}|GatewayApi\\GatewayApi.csproj|e:\\project\\consul\\consultest\\gatewayapi\\gatewayapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{449602BB-115B-43C7-8CF5-7A86B2C5DDC9}|GatewayApi\\GatewayApi.csproj|solutionrelative:gatewayapi\\gatewayapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7B8B74-D079-2844-F974-2C3987EE8279}|ServicesApi\\ServicesApi.csproj|e:\\project\\consul\\consultest\\servicesapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BC7B8B74-D079-2844-F974-2C3987EE8279}|ServicesApi\\ServicesApi.csproj|solutionrelative:servicesapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7B8B74-D079-2844-F974-2C3987EE8279}|ServicesApi\\ServicesApi.csproj|e:\\project\\consul\\consultest\\servicesapi\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{BC7B8B74-D079-2844-F974-2C3987EE8279}|ServicesApi\\ServicesApi.csproj|solutionrelative:servicesapi\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7B8B74-D079-2844-F974-2C3987EE8279}|ServicesApi\\ServicesApi.csproj|e:\\project\\consul\\consultest\\servicesapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BC7B8B74-D079-2844-F974-2C3987EE8279}|ServicesApi\\ServicesApi.csproj|solutionrelative:servicesapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7B8B74-D079-2844-F974-2C3987EE8279}|ServicesApi\\ServicesApi.csproj|e:\\project\\consul\\consultest\\servicesapi\\servicesapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{BC7B8B74-D079-2844-F974-2C3987EE8279}|ServicesApi\\ServicesApi.csproj|solutionrelative:servicesapi\\servicesapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7B8B74-D079-2844-F974-2C3987EE8279}|ServicesApi\\ServicesApi.csproj|e:\\project\\consul\\consultest\\servicesapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BC7B8B74-D079-2844-F974-2C3987EE8279}|ServicesApi\\ServicesApi.csproj|solutionrelative:servicesapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7B8B74-D079-2844-F974-2C3987EE8279}|ServicesApi\\ServicesApi.csproj|e:\\project\\consul\\consultest\\servicesapi\\servicesapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BC7B8B74-D079-2844-F974-2C3987EE8279}|ServicesApi\\ServicesApi.csproj|solutionrelative:servicesapi\\servicesapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0c720079-b2d5-4f29-840e-382783199460}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConsulService.cs",
+              "DocumentMoniker": "E:\\Project\\Consul\\ConsulTest\\ServicesApi\\ConsulService.cs",
+              "RelativeDocumentMoniker": "ServicesApi\\ConsulService.cs",
+              "ToolTip": "E:\\Project\\Consul\\ConsulTest\\ServicesApi\\ConsulService.cs",
+              "RelativeToolTip": "ServicesApi\\ConsulService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T10:21:03.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConsulConfigProvider .cs",
+              "DocumentMoniker": "E:\\Project\\Consul\\ConsulTest\\GatewayApi\\ConsulConfigProvider .cs",
+              "RelativeDocumentMoniker": "GatewayApi\\ConsulConfigProvider .cs",
+              "ToolTip": "E:\\Project\\Consul\\ConsulTest\\GatewayApi\\ConsulConfigProvider .cs",
+              "RelativeToolTip": "GatewayApi\\ConsulConfigProvider .cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T13:36:14.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConsulDiscoveryService.cs",
+              "DocumentMoniker": "E:\\Project\\Consul\\ConsulTest\\CommonClassLibrary\\Services\\ConsulDiscoveryService.cs",
+              "RelativeDocumentMoniker": "CommonClassLibrary\\Services\\ConsulDiscoveryService.cs",
+              "ToolTip": "E:\\Project\\Consul\\ConsulTest\\CommonClassLibrary\\Services\\ConsulDiscoveryService.cs",
+              "RelativeToolTip": "CommonClassLibrary\\Services\\ConsulDiscoveryService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBQAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T08:25:53.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Project\\Consul\\ConsulTest\\GatewayApi\\Program.cs",
+              "RelativeDocumentMoniker": "GatewayApi\\Program.cs",
+              "ToolTip": "E:\\Project\\Consul\\ConsulTest\\GatewayApi\\Program.cs",
+              "RelativeToolTip": "GatewayApi\\Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAcwCkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T07:26:50.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Project\\Consul\\ConsulTest\\ServicesApi\\Program.cs",
+              "RelativeDocumentMoniker": "ServicesApi\\Program.cs",
+              "ToolTip": "E:\\Project\\Consul\\ConsulTest\\ServicesApi\\Program.cs",
+              "RelativeToolTip": "ServicesApi\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T09:50:42.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "E:\\Project\\Consul\\ConsulTest\\ServicesApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "ServicesApi\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "E:\\Project\\Consul\\ConsulTest\\ServicesApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "ServicesApi\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA3wCIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T10:51:40.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "E:\\Project\\Consul\\ConsulTest\\ServicesApi\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "ServicesApi\\WeatherForecast.cs",
+              "ToolTip": "E:\\Project\\Consul\\ConsulTest\\ServicesApi\\WeatherForecast.cs",
+              "RelativeToolTip": "ServicesApi\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T09:53:13.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Project\\Consul\\ConsulTest\\ServiceDiscoveryClient\\Program.cs",
+              "RelativeDocumentMoniker": "ServiceDiscoveryClient\\Program.cs",
+              "ToolTip": "E:\\Project\\Consul\\ConsulTest\\ServiceDiscoveryClient\\Program.cs",
+              "RelativeToolTip": "ServiceDiscoveryClient\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T08:26:16.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Project\\Consul\\ConsulTest\\GatewayApi\\appsettings.json",
+              "RelativeDocumentMoniker": "GatewayApi\\appsettings.json",
+              "ToolTip": "E:\\Project\\Consul\\ConsulTest\\GatewayApi\\appsettings.json",
+              "RelativeToolTip": "GatewayApi\\appsettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-30T08:18:11.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "E:\\Project\\Consul\\ConsulTest\\GatewayApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "GatewayApi\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "E:\\Project\\Consul\\ConsulTest\\GatewayApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "GatewayApi\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T13:35:39.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ServicesApi.csproj",
+              "DocumentMoniker": "E:\\Project\\Consul\\ConsulTest\\ServicesApi\\ServicesApi.csproj",
+              "RelativeDocumentMoniker": "ServicesApi\\ServicesApi.csproj",
+              "ToolTip": "E:\\Project\\Consul\\ConsulTest\\ServicesApi\\ServicesApi.csproj",
+              "RelativeToolTip": "ServicesApi\\ServicesApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-30T10:18:56.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ServiceConfig.cs",
+              "DocumentMoniker": "E:\\Project\\Consul\\ConsulTest\\CommonClassLibrary\\Models\\ServiceConfig.cs",
+              "RelativeDocumentMoniker": "CommonClassLibrary\\Models\\ServiceConfig.cs",
+              "ToolTip": "E:\\Project\\Consul\\ConsulTest\\CommonClassLibrary\\Models\\ServiceConfig.cs",
+              "RelativeToolTip": "CommonClassLibrary\\Models\\ServiceConfig.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAEwBMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T14:25:58.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoadBalancer.cs",
+              "DocumentMoniker": "E:\\Project\\Consul\\ConsulTest\\CommonClassLibrary\\Services\\LoadBalancer.cs",
+              "RelativeDocumentMoniker": "CommonClassLibrary\\Services\\LoadBalancer.cs",
+              "ToolTip": "E:\\Project\\Consul\\ConsulTest\\CommonClassLibrary\\Services\\LoadBalancer.cs",
+              "RelativeToolTip": "CommonClassLibrary\\Services\\LoadBalancer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T14:27:49.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Project\\Consul\\ConsulTest\\ServicesApi\\appsettings.json",
+              "RelativeDocumentMoniker": "ServicesApi\\appsettings.json",
+              "ToolTip": "E:\\Project\\Consul\\ConsulTest\\ServicesApi\\appsettings.json",
+              "RelativeToolTip": "ServicesApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-30T10:18:57.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GatewayApi.http",
+              "DocumentMoniker": "E:\\Project\\Consul\\ConsulTest\\GatewayApi\\GatewayApi.http",
+              "RelativeDocumentMoniker": "GatewayApi\\GatewayApi.http",
+              "ToolTip": "E:\\Project\\Consul\\ConsulTest\\GatewayApi\\GatewayApi.http",
+              "RelativeToolTip": "GatewayApi\\GatewayApi.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-11-04T14:13:35.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "E:\\Project\\Consul\\ConsulTest\\ServicesApi\\Dockerfile",
+              "RelativeDocumentMoniker": "ServicesApi\\Dockerfile",
+              "ToolTip": "E:\\Project\\Consul\\ConsulTest\\ServicesApi\\Dockerfile",
+              "RelativeToolTip": "ServicesApi\\Dockerfile",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-30T14:45:02.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ServicesApi",
+              "DocumentMoniker": "E:\\Project\\Consul\\ConsulTest\\ServicesApi\\ServicesApi.csproj",
+              "RelativeDocumentMoniker": "ServicesApi\\ServicesApi.csproj",
+              "ToolTip": "E:\\Project\\Consul\\ConsulTest\\ServicesApi\\ServicesApi.csproj",
+              "RelativeToolTip": "ServicesApi\\ServicesApi.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-30T14:31:15.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": ".dockerignore",
+              "DocumentMoniker": "E:\\Project\\Consul\\ConsulTest\\ServicesApi\\.dockerignore",
+              "RelativeDocumentMoniker": "ServicesApi\\.dockerignore",
+              "ToolTip": "E:\\Project\\Consul\\ConsulTest\\ServicesApi\\.dockerignore",
+              "RelativeToolTip": "ServicesApi\\.dockerignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-02T14:26:32.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "E:\\Project\\Consul\\ConsulTest\\ServicesApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ServicesApi\\appsettings.Development.json",
+              "ToolTip": "E:\\Project\\Consul\\ConsulTest\\ServicesApi\\appsettings.Development.json",
+              "RelativeToolTip": "ServicesApi\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-30T11:08:39.867Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

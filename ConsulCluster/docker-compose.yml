@@ -1,0 +1,41 @@
+services:
+  consul1:
+    image: consul:1.15.4
+    pull_policy: never  # 👈 从本地获取镜像
+    container_name: consul1
+    restart: always
+    ports:
+      - "1027:8500"       # Web UI & API
+      - "8600:8600/udp"   # DNS
+    volumes:
+      - ./server1/consul.json:/consul/config/consul.json
+    networks:
+      - consul-net
+
+  consul2:
+    image: consul:1.15.4
+    pull_policy: never  # 👈 从本地获取镜像
+    container_name: consul2
+    restart: always
+    ports:
+      - "1028:8500"       # Web UI & API
+    volumes:
+      - ./server2/consul.json:/consul/config/consul.json
+    networks:
+      - consul-net
+
+  consul3:
+    image: consul:1.15.4
+    pull_policy: never  # 👈 从本地获取镜像
+    container_name: consul3
+    restart: always
+    ports:
+      - "1029:8500"       # Web UI & API
+    volumes:
+      - ./server3/consul.json:/consul/config/consul.json
+    networks:
+      - consul-net
+
+networks:
+  consul-net:
+    driver: bridge

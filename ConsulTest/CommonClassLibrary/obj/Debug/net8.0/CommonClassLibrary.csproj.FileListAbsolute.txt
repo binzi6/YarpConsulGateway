@@ -1,0 +1,12 @@
+E:\Project\Consul\ConsulTest\CommonClassLibrary\bin\Debug\net8.0\CommonClassLibrary.deps.json
+E:\Project\Consul\ConsulTest\CommonClassLibrary\bin\Debug\net8.0\CommonClassLibrary.dll
+E:\Project\Consul\ConsulTest\CommonClassLibrary\bin\Debug\net8.0\CommonClassLibrary.pdb
+E:\Project\Consul\ConsulTest\CommonClassLibrary\obj\Debug\net8.0\CommonClassLibrary.csproj.AssemblyReference.cache
+E:\Project\Consul\ConsulTest\CommonClassLibrary\obj\Debug\net8.0\CommonClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\Consul\ConsulTest\CommonClassLibrary\obj\Debug\net8.0\CommonClassLibrary.AssemblyInfoInputs.cache
+E:\Project\Consul\ConsulTest\CommonClassLibrary\obj\Debug\net8.0\CommonClassLibrary.AssemblyInfo.cs
+E:\Project\Consul\ConsulTest\CommonClassLibrary\obj\Debug\net8.0\CommonClassLibrary.csproj.CoreCompileInputs.cache
+E:\Project\Consul\ConsulTest\CommonClassLibrary\obj\Debug\net8.0\CommonClassLibrary.dll
+E:\Project\Consul\ConsulTest\CommonClassLibrary\obj\Debug\net8.0\refint\CommonClassLibrary.dll
+E:\Project\Consul\ConsulTest\CommonClassLibrary\obj\Debug\net8.0\CommonClassLibrary.pdb
+E:\Project\Consul\ConsulTest\CommonClassLibrary\obj\Debug\net8.0\ref\CommonClassLibrary.dll
