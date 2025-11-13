@@ -91,6 +91,7 @@ http://localhost:1028
 
 http://localhost:1029
  → consul3
+```bash
 
 🧩 可通过 http://localhost:1027/v1/catalog/services 查看注册的服务。
 
