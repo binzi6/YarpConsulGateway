@@ -94,7 +94,7 @@ http://localhost:1029
 
 🧩 可通过 http://localhost:1027/v1/catalog/services 查看注册的服务。
 
-2️⃣ 启动网关
+### 2️⃣ 启动网关
 
 在 GatewayApi 目录下执行：
 
@@ -113,7 +113,7 @@ http://localhost:8099/service-a/health
 
 网关将自动转发到对应服务的健康检查地址。
 
-⚙️ 配置说明
+## ⚙️ 配置说明
 
 appsettings.json 示例：
 
@@ -131,7 +131,7 @@ appsettings.json 示例：
 
 修改 Consul:Address 可切换到任意节点。
 
-🧩 关键类说明
+## 🧩 关键类说明
 类名	作用
 ConsulConfigProvider	实现 IProxyConfigProvider，动态生成路由与集群配置
 ConsulDiscoveryService	统一封装 Consul 健康检查与服务获取逻辑
@@ -147,7 +147,7 @@ curl --request PUT \
 
 YARP 网关会在 30 秒内自动生成对应路由 /service-a/{**catch-all}。
 
-🧱 开发计划（Roadmap）
+## 🧱 开发计划（Roadmap）
 
  支持服务标签自动路由规则
 
@@ -162,6 +162,6 @@ YARP 网关会在 30 秒内自动生成对应路由 /service-a/{**catch-all}。
 MIT License
 Copyright © 2025
 
-🌟 Star 一下
+## 🌟 Star 一下
 
 如果这个项目对你有帮助，请给一个 ⭐ 支持一下，谢谢！
